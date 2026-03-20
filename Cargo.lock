@@ -4902,7 +4902,7 @@ dependencies = [
 [[package]]
 name = "omnisette"
 version = "0.1.0"
-source = "git+https://github.com/PlumeImpactor/omnisette?rev=c066ac2#c066ac2bba09d01ba74c7d1c518b994298cb871c"
+source = "git+https://github.com/PlumeImpactor/omnisette?rev=c5c4cf2#c5c4cf29a4d0baea632bf50efbc161eb88df57b9"
 dependencies = [
  "android-loader",
  "anyhow",
