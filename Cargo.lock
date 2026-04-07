@@ -3676,8 +3676,8 @@ checksum = "b9e0384b61958566e926dc50660321d12159025e767c18e043daf26b70104c39"
 
 [[package]]
 name = "idevice"
-version = "0.1.56"
-source = "git+https://github.com/PlumeImpactor/plume-idevice?rev=9bc774a69cd259d8d6b9a01bbadfd9668bb1ec5a#9bc774a69cd259d8d6b9a01bbadfd9668bb1ec5a"
+version = "0.1.57"
+source = "git+https://github.com/PlumeImpactor/plume-idevice?rev=3c9dce32e5d1f8a36b9180f63515e999edeae68a#3c9dce32e5d1f8a36b9180f63515e999edeae68a"
 dependencies = [
  "aes 0.8.4",
  "async-stream",
@@ -3915,9 +3915,9 @@ dependencies = [
 
 [[package]]
 name = "jktcp"
-version = "0.1.0"
+version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "cb06e56eaacb9a57f445a639681fb829cbfd95ad65f0d1867610bb0bd7c3b2de"
+checksum = "9a5e6f49d25ffd9617fde3b1f01b6bc349497affef78d5fc67f5b0f0b4b3924c"
 dependencies = [
  "crossfire",
  "futures",
@@ -4538,9 +4538,9 @@ dependencies = [
 
 [[package]]
 name = "ns-keyed-archive"
-version = "0.1.4"
+version = "0.1.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "7bc340e0b7a5bb4b06338cafa693d0b585d597b024fff876c5dad385a00d83e7"
+checksum = "815e8c8171d033165fdda6d95630d6f447592ad5e6fbade9db26663970c6fae6"
 dependencies = [
  "nskeyedarchiver_converter",
  "plist",
